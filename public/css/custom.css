@@ -1,0 +1,110 @@
+body{
+    font-family: montesrrat;
+}
+/* navigation bar classes */
+#a:hover{
+    background-color: aliceblue;
+    font-size: 1rem;
+    color: black!important;
+    border-radius: 12%;
+    margin-left: 1rem;
+}
+#a{
+    font-size: 1.1rem;
+    border-radius: 12%;
+    margin-left: 1rem;
+    padding: 0.3rem;
+    border-bottom: 9rem!important;
+    border-color: aliceblue!important;
+}
+#navbrand{
+    color: rgb(0, 0, 0)!important;
+    font-family:Pacifico ;
+}
+#white_text:hover{
+
+    border-color: brown;
+}
+#icon{
+    padding-left: 1rem;
+}
+.navbar-fonts{
+    font-family: montserrat;
+}
+.navbar-toggler-icon{
+    padding-top:0.5rem !important;
+    padding-bottom:0.5rem !important;
+}
+.btn-nav{
+    margin-right: 10px!important;
+    margin-left: 10px!important;
+}
+/* navigation bar classes */
+    /* section containg home screen */
+#home-screen{
+    background-color: #DCD7C9;
+    font-family: montserrat;
+}
+
+.profile-picture{
+    height: 150px;
+    width:150px;  
+    margin-bottom: 5.5rem;
+}
+.col{
+    text-align: center;
+    padding: 3rem;
+}
+/* education field */
+.header-education{
+    text-align: center;
+    padding: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#education{
+    padding-bottom: 5rem;
+}
+/* skills field */
+#skills{
+    background-color: #DCD7C9;
+    font-family: montserrat;
+    padding-bottom: 4rem;
+}
+/* Studies */
+#studies{
+    padding-bottom: 4rem;
+    font-family: montserrat;
+}
+/* my work field */
+#my-projects{
+    background-color: #DCD7C9;
+}
+.project1img{
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width:700px ;
+}
+.header-about-me{
+    text-align: center;
+    padding: 3rem;
+    padding-bottom: 0rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* footer */
+#footer{
+    text-align: center;
+    margin-top: 2rem;
+    padding:1rem ;
+}
+.footer-links{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+#hire-me{
+    margin-top:5rem;
+    margin-bottom: 3rem;
+}
+#my-teachers{
+    margin-top: 5rem;
+}
